@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/P2PDiag/P2PDiag.csproj" />
+  </Folder>
+</Solution>
